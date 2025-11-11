@@ -95,7 +95,7 @@ function TermsAndConditions() {
           <section className="bg-gray-800/30 rounded-xl p-6 border border-gray-700">
             <h2 className="text-2xl font-bold text-emerald-400 mb-4">7. Contact</h2>
             <p className="text-gray-300 leading-relaxed">
-              For questions about these Terms & Conditions, please contact us at support@diurecycle.com
+              For questions about these Terms & Conditions, please contact us at syedsabbirahmed.contact@gmail.com
             </p>
           </section>
         </motion.div>

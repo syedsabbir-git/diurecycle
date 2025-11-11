@@ -120,7 +120,7 @@ function PrivacyPolicy() {
             <h2 className="text-2xl font-bold text-emerald-400 mb-4">Contact Us</h2>
             <p className="text-gray-300 leading-relaxed">
               For privacy concerns or data requests, contact us at:<br />
-              <strong className="text-emerald-400">privacy@diurecycle.com</strong>
+              <strong className="text-emerald-400">syedsabbirahmed.contact@gmail.com</strong>
             </p>
           </section>
         </motion.div>
