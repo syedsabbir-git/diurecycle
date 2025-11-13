@@ -28,19 +28,19 @@ function Footer() {
             <h3 className="font-semibold mb-4">Connect</h3>
             <div className="flex gap-4">
               <a 
-                href="#" 
+                href="https://github.com/syedsabbir-git" 
                 className="w-10 h-10 bg-gray-800 hover:bg-emerald-500 border border-gray-700 rounded-lg flex items-center justify-center transition-colors"
               >
                 <Github className="w-5 h-5" />
               </a>
               <a 
-                href="#" 
+                href="https://www.linkedin.com/in/syed-sabbir-ahmed" 
                 className="w-10 h-10 bg-gray-800 hover:bg-emerald-500 border border-gray-700 rounded-lg flex items-center justify-center transition-colors"
               >
                 <Linkedin className="w-5 h-5" />
               </a>
               <a 
-                href="#" 
+                href="mailto:syedsabbirahmed.contact@gmail.com" 
                 className="w-10 h-10 bg-gray-800 hover:bg-emerald-500 border border-gray-700 rounded-lg flex items-center justify-center transition-colors"
               >
                 <Mail className="w-5 h-5" />
