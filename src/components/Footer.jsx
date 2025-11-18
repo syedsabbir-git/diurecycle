@@ -1,4 +1,5 @@
 import { Github, Linkedin, Mail } from 'lucide-react';
+import { Link } from 'react-router-dom';
 
 function Footer() {
   return (
@@ -52,6 +53,17 @@ function Footer() {
 
         {/* Bottom */}
         <div className="border-t border-gray-800 pt-8 text-center text-gray-500">
+          <div className="flex justify-center gap-6 mb-4 text-sm">
+            <Link to="/privacy" className="hover:text-emerald-500 transition-colors">
+              Privacy Policy
+            </Link>
+            <Link to="/terms" className="hover:text-emerald-500 transition-colors">
+              Terms & Conditions
+            </Link>
+            <Link to="/delete-account" className="hover:text-red-500 transition-colors">
+              Delete Account
+            </Link>
+          </div>
           <p>© 2025 DIU Recycle. Built with ❤️ for sustainability.</p>
           <p className="text-sm mt-2">Developed by Syed Sabbir Ahmed • Computer Science Graduate • BitStream Startup Co-founder</p>
         </div>
